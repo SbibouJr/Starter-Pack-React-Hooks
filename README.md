@@ -1,4 +1,4 @@
-# Starter-Pack-Resact-Hooks
+# Starter-Pack-React-Hooks
 
 ## Development
 
